@@ -2,7 +2,7 @@
 
 Datum (Stand): 14.03.2018
 
-#Datenschutz ist wichtig. Wir respektieren deine. Unser Ziel ist es, mehr zu tun als gesetzlich - wir möchten uns das Vertrauen verdienen, dass wir mit Ihren Daten vorsichtig sind.
+#Datenschutz ist wichtig und TED respektiert deine Rechte und Daten. Unser Ziel ist es, mehr zu tun als gesetzlich geforderter - wir möchten uns das Vertrauen verdienen, dass wir mit Ihren Daten vorsichtig sind.
 
 #Information über die Erhebung personenbezogener Daten und Anbieterkennzeichnung
 
