@@ -1,8 +1,8 @@
-# TED Datenschutz und AGB
-TED Versicherung’s Datenschutz und AGB. https://ted-versicherung.de/datenschutz / https://ted-versicherung.de/agb
+# TED Datenschutz
+TED Versicherung’s Datenschutz. http://ted-versicherung.de/#/info/datenschutzerklarung
 
-Hier halten Sie aktuelle und frühere Versionen der Datenschutzrichtlinien und AGBs von TED Versicherung ein.
+Hier erhalten Sie aktuelle und frühere Versionen der Datenschutzerklärung.
 
-Wenn Sie Fragen haben, schicken Sie uns eine E-Mail an marketing@ted-versicherung.de.
+Wenn Sie Fragen haben, schicken Sie uns eine E-Mail an TED@ted-versicherung.de.
 
 Vielen Dank!
